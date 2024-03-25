@@ -22,6 +22,7 @@ export {SortFilter} from './SortFilter';
 export {Grid} from './Grid';
 export {FeaturedProducts} from './FeaturedProducts';
 export {AddToCartButton} from './AddToCartButton';
+export {RecommendedProducts} from './RecommendedProducts';
 // Sue me
 export * from './Icon';
 // adding Algolia Autocomplete
